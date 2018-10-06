@@ -1,6 +1,7 @@
 # Project-Ago
 (Ago - Latin Singular Indicitive; To do, drive, lead; pass or spend time) 
-Small portable delta 3D printer using CNC routed ACM 
+
+A Small portable delta 3D printer using CNC routed ACM 
 
 Project goals:
 - Using ACM (DiBond, Alubond) sheets to create the main chassis of the printer with a CNC router.
