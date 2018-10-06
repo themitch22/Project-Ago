@@ -1,4 +1,5 @@
 # Project-Ago
+(Ago - Latin Singular Indicitive; To do, drive, lead; pass or spend time) 
 Small portable delta 3D printer using CNC routed ACM 
 
 Project goals:
